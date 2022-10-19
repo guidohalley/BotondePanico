@@ -1,4 +1,4 @@
-<h1 align="center"> 👾 HOLA , soy Guido Halley 😁</h2>
+<h1 align="center"> 👾 HOLA , soy Guido Halley 👽</h2>
 <h4 align="center"><p><em> ## INCADE ☕</p></em>
 <hr>
 <br>
@@ -12,7 +12,7 @@ Cualquier cosa te dejo mis redes para que te contactes si necesitas ayuda.
 
 <pre><code>
 // pongo el ID en una variables asi es mas facil despues si necesitas incluir por ahi
-var idCalendario = 'ablu5km3qbku8uroe92d8h3qmc@group.calendar.google.com';
+var idCalendario = '//pone aca tu id de calendario';
 function Agendar() {
 
 // registrar los botones del sheet al calendar.
