@@ -6,6 +6,8 @@
 Te invito a ver el codigo de Boton de panico, te puede servir para generar eventos en tu ambito laboral a partir de este script
 Cualquier cosa te dejo mis redes para que te contactes si necesitas ayuda.
 <p align="center">
+<hr>
+  Esta desarrollado en Google App Script, pero es similar a javascript
 </p></h1>
 
 <pre><code>
@@ -96,6 +98,4 @@ function Agendar() {
 
 <div align = "center">
 <hr>
-  
-  <h1 align="center">
-⏬ SEE MY REPOSITORIES ⏬
+
