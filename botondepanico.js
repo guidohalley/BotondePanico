@@ -1,4 +1,4 @@
-var idCalendario = 'ablu5km3qbku8uroe92d8h3qmc@group.calendar.google.com';
+var idCalendario = '//pone tu id de tu calendario 📝';
 
 function Agendar() {
   
